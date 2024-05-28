@@ -1,0 +1,18 @@
+.footer{
+    grid-row: 3/4;
+    grid-column: 1/2;
+
+    padding: 1.5rem 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(87, 82, 82);
+}
+
+.cFoot{
+    padding: 1rem 17rem;
+    background-color: rgb(121, 119, 119);
+    color: white;
+    font-size: 1.5rem;
+    border-radius: 5px;
+}
